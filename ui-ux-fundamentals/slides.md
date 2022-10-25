@@ -3,7 +3,8 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://images.unsplash.com/photo-1612334001559-947862cc2202?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w5NDczNDU2Nnx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=1296&q=60
+# background: https://source.unsplash.com/collection/94734566/1920x1080
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -48,11 +49,17 @@ UX Design Course Tutorial for Beginners
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+
 ---
-
-# UX vs UI
+layout: image-right
+image: assets/ui-vs-ux.jpeg
+---
+<style>
+  .slidev-layout.slidev-page-2 + div {
+    background-size: contain !important;
+  }
+</style>
 ## UX (User Experience)
-
 
 - Là: sự tương tác giữa khách hàng và công ty
 - Dựa vào: 
@@ -63,23 +70,29 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ## UI (User Interface)
 
-
 - Là: 
   - cái nhìn thấy và cảm nhận (look & feel)
   - điểm tương tác giữa người dùng và sản phẩm trên thiết bị kỹ thuật số (touch screen, touch pad)
 
-
-
 ---
-layout: image
-image: assets/ui-vs-ux.jpeg
+layout: image-right
+image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-3 {
+  .slidev-layout.slidev-page-3 + div {
     background-size: contain !important;
   }
 </style>
 
+# Graphic Design
+## Psychology of color 
+<br />
+
+### How does color work?
+
+- Màu sắc ở mọi nơi.
+- Chọn đúng màu sẽ giúp người dùng nhận biết thương hiệu
+- Mỗi màu sẽ mang đến những cảm xúc khác nhau
 
 ---
 layout: image-right
@@ -91,28 +104,8 @@ image: assets/psychology-color.png
   }
 </style>
 
----
-
-# Graphic Design
-## Psychology of color 
-### How does color work?
-
-- Màu sắc ở mọi nơi.
-- Chọn đúng màu sẽ giúp người dùng nhận biết thương hiệu
-- Mỗi màu sẽ mang đến những cảm xúc khác nhau
-
-
----
-layout: image-right
-image: assets/psychology-color.png
----
-<style>
-  .slidev-layout.slidev-page-5 + div {
-    background-size: contain !important;
-  }
-</style>
-
 ### Understanding color psychology
+<br />
 
 - não người phản ứng với màu sắc
 - khi mắt tiếp xúc với màu sắc, mắt kết nối đến não và gửi tín hiệu tiết ra các loại hóc môn quyết định trạng thái của tâm trạng và cảm xúc
@@ -125,64 +118,130 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-6 + div {
+  .slidev-layout.slidev-page-5 + div {
     background-size: contain !important;
   }
 </style>
 
 ### Các màu sắc và cảm xúc đặc trưng:
+<br />
 
-- Red: confidence,  youth, power
-- Orange: friendly, warm, energetic
-- Yellow: happiness, optimism, warmth
-- Green: peace, growth, health
-- Blue: trust, security, stability
-- Purple: luxurious, creative, wise
-- Black: reliable, sophisticated (tinh vi), experienced
-- White: simple, calm, clean
+- <span style="color: red; font-weight: 600;">Red</span>: confidence,  youth, power
+- <span style="color: orange; font-weight: 600;">Orange</span>: friendly, warm, energetic
+- <span style="color: yellow; font-weight: 600;">Yellow</span>: happiness, optimism, warmth
+- <span style="color: green; font-weight: 600;">Green</span>: peace, growth, health
+- <span style="color: blue; font-weight: 600;">Blue</span>: trust, security, stability
+- <span style="color: purple; font-weight: 600;">Purple</span>: luxurious, creative, wise
+- <span style="color: gray; font-weight: 600;">Black</span>: reliable, sophisticated (tinh vi), experienced
+- <span style="color: white; font-weight: 600;">White</span>: simple, calm, clean
 
 
 ---
 layout: image-right
 image: assets/r-g-b.png
 ---
+<style>
+  .slidev-layout.slidev-page-6 + div {
+    background-size: contain !important;
+  }
+</style>
 ### Lý thuyết về màu
+<br />
 
-RGB: Additive color mixing model
+#### <b>RGB</b>: Additive color mixing model
 
-- Red, Green, Blue
-- sử dụng: web design, only ads, digital-only files
-- mô tả các con người nhận dạng các màu và cách trộn màu, các màu tương phản
-- màu sắc được quản lý trong bánh xe màu và chia làm 3 categories: primary colors, secondary colors, tertiary colors
+- <span style="color: red; font-weight: 600;">Red</span>, <span style="color: green; font-weight: 600;">Green</span>, <span style="color: blue; font-weight: 600;">Blue</span>
+- sử dụng: 
+  - web design
+  - only ads
+  - digital-only files
+- mô tả: 
+  - cách con người nhận dạng các màu
+  - cách trộn màu
+  - các màu tương phản
+- quản lý với 3 categories
+  - primary colors
+  - secondary colors
+  - tertiary colors
 
 ---
 layout: image-right
 image: assets/cmyk.png
 ---
-CMYK: Subtractive color mixing model
+<style>
+  .slidev-layout.slidev-page-7 + div {
+    background-size: contain !important;
+  }
+</style>
+<br />
 
-- Cyan, Magenta, Yellow, Back
-- được tạo ra bằng cách nhúng một phần màu với một số bước sóng ánh sáng và  phản ánh lên nhau
-- sử dụng trên các vật liệu vật lý: ảnh, báo, tạp chí, các tài liệu in
+#### CMYK: Subtractive color mixing model
+<br />
+
+- <span style="color: cyan; font-weight: 600;">Cyan</span>, <span style="color: Magenta; font-weight: 600;">Magenta</span>, <span style="color: Yellow; font-weight: 600;">Yellow</span>, <span style="color: gray; font-weight: 600">Back</span> 
+- là mô hình màu loại trừ, được tạo ra dựa trên cơ sở hấp thụ ánh sáng
+- màu được nhìn thấy là từ phần ánh sáng không được hấp thụ.
+- sử dụng: 
+  - in ấn ảnh
+  - báo, tạp chí
+  - các tài liệu in
 
 ---
 layout: image-right
 image: assets/color-wheel.png
 ---
 ### Color wheel & Color Schemes 
-(Bánh xe màu & Bảng màu)
+<br />
 
-Bánh xe màu sắc họat động ntn
+#### Bánh xe màu sắc hoạt động ntn
+<br />
 
-- Bánh xe màu sắc chỉ ra mối quan hệ giữa các màu
-- Có 12 màu chính trong bánh xe màu
+- Mối quan hệ giữa các màu
+- Có 12 màu chính
     - Primary colors: red, yellow, blue
     - Secondary colors: green, orange, purple
     - Tertiary colors: blue-green, red-violet, …
 
+<br />
+
+#### Vì sao nên biết về color wheel ?
+<br />
+
+- giúp tạo đúng bảng màu
+- thêm các màu vào bảng màu
+- nhất quán trong màu sắc
+
 ---
 layout: image-right
 image: assets/color-wheel-picker.png
+---
+<style>
+  .slidev-layout.slidev-page-9 + div {
+    background-size: contain !important;
+  }
+</style>
+
+#### Warm and Cool Colors
+<br />
+
+Bánh xe màu chia thành màu ấm và màu lạnh 
+
+→ <b>color temperature</b>
+
+Cảm giác:
+
+- Màu ấm (red -> yellow)
+  - ấm cúng
+  - năng lượng
+
+- Màu lạnh (blue -> green -> purple)
+  - bình tĩnh
+  - êm đềm
+  - độc lập
+
+---
+layout: image-right
+image: assets/fonts.png
 ---
 <style>
   .slidev-layout.slidev-page-10 + div {
@@ -190,25 +249,24 @@ image: assets/color-wheel-picker.png
   }
 </style>
 
-Vì sao nên biết về color wheel ?
+## Working with Fonts
+<br />
 
-- giúp tạo đúng bảng màu
-- thêm các màu vào bảng màu
-- nhất quán trong màu sắc
+### Font psychology
+<br />
 
-Warm and Cool Colors
-
-Bánh xe màu có thể chia thành màu ấm và màu lạnh → color temperature
-
-Mỗi loại màu cho các loại cảm giác khác nhau
-
-- Màu ấm (red through yellow): ấm cúng, năng lượng
-
-- Màu lạnh (blue to green to purple): bình tĩnh, êm đềm, độc lập
+- font say about you, your business
+- não người phản ứng với font
+- serif typeface: 
+  - traditional
+  - respectable
+- sans serif typeface
+  - stable
+  - modern
 
 ---
 layout: image-right
-image: assets/fonts.png
+image: assets/serif-vs-sans-serif.png
 ---
 <style>
   .slidev-layout.slidev-page-11 + div {
@@ -216,19 +274,23 @@ image: assets/fonts.png
   }
 </style>
 
-## Working with Fonts
-### Font psychology
-- font say about you, your business
-- não người phản ứng với font tương tự màu sắc
-- serif typeface: traditional, respectable
-- sans serif typeface: stable, modern
+### Mẹo chọn font đi cùng nhau 
+<br />
 
----
+- dùng serif (font chữ có chân) và sans-serif (font chữ không chân) 
+  - [compare link](https://www.canva.com/learn/serif-vs-sans-serif-fonts/)
+- tránh loại tương tự nhau
+- font size khác nhau
+- font weight khác nhau
+- sử dụng các font cùng font family (hay typeface)
+- [(examples)](fontjoy.com)
 
-### Font pairing tips
+<br />
+
+
 ### Resources
 - fonts.google.com
-- fontpair.com
+- myfonts.com
 - fontjoy.com
 
 ---
@@ -237,42 +299,185 @@ image: assets/typo-hierarchy.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-13 + div {
+  .slidev-layout.slidev-page-12 + div {
     background-size: contain !important;
   }
 </style>
 
 ### Typographic hierarchy
-- order of importance, reader easily navigate the content
+<br />
+
+- order of importance
+- reader easily navigate the content
 - show important info to focus on
-- Key factors: typeface, size, weight, line-height, letter-spacing, color, letter-case
+- Key factors: 
+  - typeface
+  - size
+  - weight
+  - line-height
+  - letter-spacing
+  - color
+  - letter-case
 
 ---
-
-### Web fonts
-- type of fonts: web safe fonts, system fonts
-- system fonts: Arial, Times New Roman, Verdana, Geogia
-- web fonts: Open Sans, Roboto
-
+layout: image-right
+image: https://cdn.pixabay.com/photo/2015/02/22/18/26/icons-645335_1280.png
 ---
 
-### Convert fonts to curves
-Use when:
-- logo design
-- co-editing
-- custom existing font
-
----
+<style>
+  .slidev-layout.slidev-page-13 + div {
+    background-size: contain !important;
+  }
+</style>
 
 ## Working with Icons
-## User Experience Design
-## 3 Phases of a Sales Funnel
-## 4 Sales Funned Stages
+
+<br />
+
+### Role of icons
+<br />
+
+- đại diện phần lớn cách user điều hướng trang web / apps
+- icon sử dụng đúng cách sẽ hiệu dụng, dễ hớ, và nâng cao thiết kế cho trang web
+- lưu ý: icon nên đi kèm với chữ để giúp người dùng hiểu đúng ý nghĩa, trừ khi nó đã quá phổ biến với người dùng (như icon search)
+
+---
+layout: image
+image: assets/icon-with-text.png
+---
+<style>
+  .slidev-layout.slidev-page-14 {
+    background-size: contain !important;
+  }
+</style>
+
+
+---
+layout: image-right
+image: assets/styles-of-icon.png
+---
+### Styles of icons
+<br />
+
+- outline
+- filled
+- multicolor
+
+<br />
+
+### Resources
+<br />
+
+- [feathericons.com](https://feathericons.com/)
+- [flaticon.com](https://www.flaticon.com/)
+- [iconfinder.com](https://www.iconfinder.com/)
+
+[Demo web](https://www.dashclicks.com/)
+---
+
+## UX Design
+
+### Human-centered design approach
+Nguyên tắc cốt lõi:
+
+- hiểu và chỉ ra vấn đề 
+- lấy con người làm trung tâm 
+- sử dụng Activity-Centered System Approach
+- nhanh chóng tạo mẫu và thí nghiệm & lặp lại
+- try to understand whole picture bởi vì thay đổi nhỏ ở một nơi sẽ ảnh hưởng nơi khác
+
+
+---
+
+## Customer Journey & Sales Funnel
+<br />
+
+### Customer Journey
+- chi tiết quá trình dẫn đến một khách hàng paying
+
+<br />
+
+### Sales Funnel
+- mô hình sử dụng mô tả ba giai đoạn của vòng lặp mua (buying cycle)
+
+<br />
+
+> Dù "Customer Journey" và "Sales Funnel" được biểu diễn khác nhau nhưng cùng nói lên một câu chuyện
+
+---
+layout: image
+image: assets/customer-journey.png
+---
+<style>
+  .slidev-layout.slidev-page-17 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+layout: image
+image: assets/sale-tunnels.png
+---
+<style>
+  .slidev-layout.slidev-page-18 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+
+## 3 Sales Funnel Phases
+<br />
+
+- TOF - Top of Funnel
+- MOF - Middle of Funnel
+- BOF - Bottom of Funnel
+
+---
+layout: image
+image: assets/3-funnel-phases.png
+---
+<style>
+  .slidev-layout.slidev-page-21 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+
+
+## 4 Sales Funnel Stages
+<br />
+
+- Awareness
+- Interest
+- Decision
+- Action
+
+---
+layout: image
+image: assets/4-sales-funnel-stages.png
+---
+<style>
+  .slidev-layout.slidev-page-23 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+
 ## Macro/Micro Conversions
-## Stages of Market Sophistication
-## Lead Generation Funnel
-## Digital Product Funnel
-## 7 Principles of Influence
-## Age Based Influence Triggers
-## Gender Influence Triggers
-## Interest Based Marketing
+<br />
+
+### Macro conversation
+- hành động mà người dùng thực hiện cách hành động mục tiêu chính
+  - thanh toán
+
+### Micro conversation
+- hành động người dùng thực hiện dẫn đến hành động mục tiêu
+  - như thêm vào giỏ hàng 
+  - như thêm vào wishlist 
+
+---
+
+# Discusion and Q & A
