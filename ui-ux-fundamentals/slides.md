@@ -66,13 +66,14 @@ image: assets/ui-vs-ux.jpeg
   - thiết kế trực quan
   - tâm lý hành vi
   - các nghiên cứu khách hàng
-- Áp dụng lên: sản phẩm (trang web, máy bán hàng tự động)
+- Áp dụng lên sản phẩm 
+  - trang web
+  - máy bán hàng tự động
 
 ## UI (User Interface)
 
-- Là: 
-  - cái nhìn thấy và cảm nhận (look & feel)
-  - điểm tương tác giữa người dùng và sản phẩm trên thiết bị kỹ thuật số (touch screen, touch pad)
+- Là cái nhìn thấy và cảm nhận (look & feel)
+- Là điểm tương tác giữa người dùng và sản phẩm trên thiết bị kỹ thuật số touch screen, touch pad)
 
 ---
 layout: image-right
@@ -107,10 +108,10 @@ image: assets/psychology-color.png
 ### Understanding color psychology
 <br />
 
-- não người phản ứng với màu sắc
-- khi mắt tiếp xúc với màu sắc, mắt kết nối đến não và gửi tín hiệu tiết ra các loại hóc môn quyết định trạng thái của tâm trạng và cảm xúc
-- màu sắc được chọn phù hợp sẽ khiến người dùng phải hành động
-- chỉ trong 90s, người dùng sẽ phán xét về một sản phẩm, và từ 62% đến 90% là dựa trên màu sắc
+- Não người phản ứng với màu sắc
+- Khi mắt tiếp xúc với màu sắc, mắt kết nối đến não và gửi tín hiệu tiết ra các loại hóc môn quyết định trạng thái của tâm trạng và cảm xúc
+- Màu sắc được chọn phù hợp sẽ khiến người dùng phải hành động
+- Chỉ trong 90s, người dùng sẽ phán xét về một sản phẩm, và từ 62% đến 90% là dựa trên màu sắc
 
 
 ---
@@ -151,15 +152,15 @@ image: assets/r-g-b.png
 #### <b>RGB</b>: Additive color mixing model
 
 - <span style="color: red; font-weight: 600;">Red</span>, <span style="color: green; font-weight: 600;">Green</span>, <span style="color: blue; font-weight: 600;">Blue</span>
-- sử dụng: 
+- Sử dụng: 
   - web design
   - only ads
   - digital-only files
-- mô tả: 
+- Mô tả: 
   - cách con người nhận dạng các màu
   - cách trộn màu
   - các màu tương phản
-- quản lý với 3 categories
+- Quản lý với 3 categories
   - primary colors
   - secondary colors
   - tertiary colors
@@ -179,9 +180,9 @@ image: assets/cmyk.png
 <br />
 
 - <span style="color: cyan; font-weight: 600;">Cyan</span>, <span style="color: Magenta; font-weight: 600;">Magenta</span>, <span style="color: Yellow; font-weight: 600;">Yellow</span>, <span style="color: gray; font-weight: 600">Back</span> 
-- là mô hình màu loại trừ, được tạo ra dựa trên cơ sở hấp thụ ánh sáng
-- màu được nhìn thấy là từ phần ánh sáng không được hấp thụ.
-- sử dụng: 
+- Là mô hình màu loại trừ, được tạo ra dựa trên cơ sở hấp thụ ánh sáng
+- Màu được nhìn thấy là từ phần ánh sáng không được hấp thụ.
+- Sử dụng: 
   - in ấn ảnh
   - báo, tạp chí
   - các tài liệu in
@@ -207,9 +208,9 @@ image: assets/color-wheel.png
 #### Vì sao nên biết về color wheel ?
 <br />
 
-- giúp tạo đúng bảng màu
-- thêm các màu vào bảng màu
-- nhất quán trong màu sắc
+- Giúp tạo đúng bảng màu
+- Thêm các màu vào bảng màu
+- Nhất quán trong màu sắc
 
 ---
 layout: image-right
@@ -255,12 +256,12 @@ image: assets/fonts.png
 ### Font psychology
 <br />
 
-- font say about you, your business
-- não người phản ứng với font
-- serif typeface: 
+- Font say about you, your business
+- Não người phản ứng với font
+- Serif typeface (font chữ có chân) 
   - traditional
   - respectable
-- sans serif typeface
+- Sans serif typeface (font chữ không chân) 
   - stable
   - modern
 
@@ -277,13 +278,13 @@ image: assets/serif-vs-sans-serif.png
 ### Mẹo chọn font đi cùng nhau 
 <br />
 
-- dùng serif (font chữ có chân) và sans-serif (font chữ không chân) 
+- Dùng serif và sans-serif 
   - [compare link](https://www.canva.com/learn/serif-vs-sans-serif-fonts/)
-- tránh loại tương tự nhau
-- font size khác nhau
-- font weight khác nhau
-- sử dụng các font cùng font family (hay typeface)
-- [(examples)](fontjoy.com)
+- Tránh loại tương tự nhau
+- Font size khác nhau
+- Font weight khác nhau
+- Sử dụng các font cùng font family (hay typeface)
+- [(Examples)](fontjoy.com)
 
 <br />
 
@@ -307,9 +308,9 @@ image: assets/typo-hierarchy.png
 ### Typographic hierarchy
 <br />
 
-- order of importance
-- reader easily navigate the content
-- show important info to focus on
+- Order of importance
+- Reader easily navigate the content
+- Show important info to focus on
 - Key factors: 
   - typeface
   - size
@@ -337,9 +338,9 @@ image: https://cdn.pixabay.com/photo/2015/02/22/18/26/icons-645335_1280.png
 ### Role of icons
 <br />
 
-- đại diện phần lớn cách user điều hướng trang web / apps
-- icon sử dụng đúng cách sẽ hiệu dụng, dễ hớ, và nâng cao thiết kế cho trang web
-- lưu ý: icon nên đi kèm với chữ để giúp người dùng hiểu đúng ý nghĩa, trừ khi nó đã quá phổ biến với người dùng (như icon search)
+- Đại diện phần lớn cách user điều hướng trang web / apps
+- Icon sử dụng đúng cách sẽ hiệu dụng, dễ hớ, và nâng cao thiết kế cho trang web
+- Lưu ý: icon nên đi kèm với chữ để giúp người dùng hiểu đúng ý nghĩa, trừ khi nó đã quá phổ biến với người dùng (như icon search)
 
 ---
 layout: image
@@ -380,11 +381,11 @@ image: assets/styles-of-icon.png
 ### Human-centered design approach
 Nguyên tắc cốt lõi:
 
-- hiểu và chỉ ra vấn đề 
-- lấy con người làm trung tâm 
-- sử dụng Activity-Centered System Approach
-- nhanh chóng tạo mẫu và thí nghiệm & lặp lại
-- try to understand whole picture bởi vì thay đổi nhỏ ở một nơi sẽ ảnh hưởng nơi khác
+- Hiểu và chỉ ra vấn đề 
+- Lấy con người làm trung tâm 
+- Sử dụng Activity-Centered System Approach
+- Nhanh chóng tạo mẫu và thí nghiệm & lặp lại
+- Try to understand whole picture bởi vì thay đổi nhỏ ở một nơi sẽ ảnh hưởng nơi khác
 
 
 ---
@@ -393,12 +394,12 @@ Nguyên tắc cốt lõi:
 <br />
 
 ### Customer Journey
-- chi tiết quá trình dẫn đến một khách hàng paying
+- Chi tiết quá trình dẫn đến một khách hàng paying
 
 <br />
 
 ### Sales Funnel
-- mô hình sử dụng mô tả ba giai đoạn của vòng lặp mua (buying cycle)
+- Mô hình sử dụng mô tả ba giai đoạn của vòng lặp mua (buying cycle)
 
 <br />
 
@@ -470,13 +471,14 @@ image: assets/4-sales-funnel-stages.png
 <br />
 
 ### Macro conversation
-- hành động mà người dùng thực hiện cách hành động mục tiêu chính
+- Hành động mà người dùng thực hiện cách hành động mục tiêu chính
   - thanh toán
 
 ### Micro conversation
-- hành động người dùng thực hiện dẫn đến hành động mục tiêu
-  - như thêm vào giỏ hàng 
-  - như thêm vào wishlist 
+- Hành động người dùng thực hiện dẫn đến hành động mục tiêu
+  - thêm vào giỏ hàng 
+  - thêm vào wishlist 
+  - bookmark
 
 ---
 
