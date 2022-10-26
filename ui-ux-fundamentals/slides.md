@@ -51,6 +51,44 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+
+# Outline
+Why UI / UX matter ?
+
+UI/UX là gì ?
+
+Stages of development
+
+Tìm hiểu về UI - “Graphic Design”
+  - Tìm hiểu về màu sắc
+  - Tìm hiểu về fonts
+  - Tìm hiểu về Icons
+
+Tìm hiểu về UX - "User Experience"
+  - Lấy người dùng làm trung tâm
+  - Hành trình của khách hàng
+  - Mô hình phễu bán hàng
+
+---
+
+# Why UI / UX matter ?
+
+Nếu bạn nghĩ làm web developer chỉ cần biết code, ai đưa gì làm nấy thì đó mà mindset chưa đúng.
+
+Việc dev học về thiết kế UI/UX như là một nền tảng cơ bản để làm web developer, giúp bạn:
+
+- hiểu về người dùng hơn, sản phẩm hơn
+- hỗ trợ bộ phận thiết kế, nghiên cứu hành vi người dùng
+- lựa chọn các kỹ thuật phù hợp hơn
+- hoàn thành công việc tốt hơn
+- dễ dàng hơn trong việc tự thiết kế sản phẩm riêng của mình
+
+
+---
+
+# UX vs. UI
+
+---
 layout: image-right
 image: assets/ui-vs-ux.jpeg
 ---
@@ -143,7 +181,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-5 + div {
+  .slidev-layout.slidev-page-10 + div {
     background-size: contain !important;
   }
 </style>
@@ -162,7 +200,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-6 + div {
+  .slidev-layout.slidev-page-11 + div {
     background-size: contain !important;
   }
 </style>
@@ -311,7 +349,7 @@ layout: image-right
 image: assets/serif-vs-sans-serif.png
 ---
 <style>
-  .slidev-layout.slidev-page-13 + div {
+  .slidev-layout.slidev-page-17 + div {
     background-size: contain !important;
   }
 </style>
@@ -341,7 +379,7 @@ image: assets/typo-hierarchy.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-15 + div {
+  .slidev-layout.slidev-page-18 + div {
     background-size: contain !important;
   }
 </style>
@@ -369,7 +407,7 @@ image: https://cdn.pixabay.com/photo/2015/02/22/18/26/icons-645335_1280.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-16 + div {
+  .slidev-layout.slidev-page-19 + div {
     background-size: contain !important;
   }
 </style>
@@ -390,7 +428,7 @@ layout: image
 image: assets/icon-with-text.png
 ---
 <style>
-  .slidev-layout.slidev-page-17 {
+  .slidev-layout.slidev-page-20 {
     background-size: contain !important;
   }
 </style>
@@ -453,7 +491,7 @@ layout: image
 image: assets/customer-journey.png
 ---
 <style>
-  .slidev-layout.slidev-page-21 {
+  .slidev-layout.slidev-page-24 {
     background-size: contain !important;
   }
 </style>
@@ -463,7 +501,7 @@ layout: image
 image: assets/sale-tunnels.png
 ---
 <style>
-  .slidev-layout.slidev-page-22 {
+  .slidev-layout.slidev-page-25 {
     background-size: contain !important;
   }
 </style>
@@ -482,7 +520,7 @@ layout: image
 image: assets/3-funnel-phases.png
 ---
 <style>
-  .slidev-layout.slidev-page-24 {
+  .slidev-layout.slidev-page-27 {
     background-size: contain !important;
   }
 </style>
@@ -503,7 +541,7 @@ layout: image
 image: assets/4-sales-funnel-stages.png
 ---
 <style>
-  .slidev-layout.slidev-page-26 {
+  .slidev-layout.slidev-page-29 {
     background-size: contain !important;
   }
 </style>
@@ -526,3 +564,7 @@ image: assets/4-sales-funnel-stages.png
 ---
 
 # Discusion and Q & A
+
+---
+
+# Thank you
