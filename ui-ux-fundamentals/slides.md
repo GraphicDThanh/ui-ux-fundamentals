@@ -93,7 +93,7 @@ layout: image-right
 image: assets/ui-vs-ux.jpeg
 ---
 <style>
-  .slidev-layout.slidev-page-2 + div {
+  .slidev-layout.slidev-page-5 + div {
     background-size: contain !important;
   }
 </style>
@@ -118,7 +118,7 @@ layout: image-right
 image: assets/stage-web-development.png
 ---
 <style>
-  .slidev-layout.slidev-page-3 + div {
+  .slidev-layout.slidev-page-6 + div {
     background-size: contain !important;
   }
 </style>
@@ -297,6 +297,11 @@ image: assets/color-wheel.png
 layout: image-right
 image: assets/color-wheel-picker.png
 ---
+<style>
+  .slidev-layout.slidev-page-15 + div {
+    background-size: contain !important;
+  }
+</style>
 #### Warm and Cool Colors
 <br />
 
@@ -324,7 +329,7 @@ layout: image-right
 image: assets/fonts.png
 ---
 <style>
-  .slidev-layout.slidev-page-12 + div {
+  .slidev-layout.slidev-page-16 + div {
     background-size: contain !important;
   }
 </style>
