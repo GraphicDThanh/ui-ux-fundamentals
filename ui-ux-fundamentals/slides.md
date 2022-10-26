@@ -51,23 +51,38 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-
+layout: two-cols
+---
 # Outline
-Why UI / UX matter ?
 
-UI/UX là gì ?
+Why UI / UX matters ?
 
-Stages of development
+UX vs. UI
 
-Tìm hiểu về UI - “Graphic Design”
-  - Tìm hiểu về màu sắc
-  - Tìm hiểu về fonts
-  - Tìm hiểu về Icons
+Stages of Development
 
-Tìm hiểu về UX - "User Experience"
-  - Lấy người dùng làm trung tâm
-  - Hành trình của khách hàng
-  - Mô hình phễu bán hàng
+
+Graphic Design
+
+- Colors
+- Fonts
+- Icons
+
+::right::
+
+<br />
+<br />
+<br />
+
+UX Design
+
+- Human-centered design approach
+- Customer Journey & Sales Funnel
+- Macro / Micro Conversions
+- Market Sotisfication
+- Lead Generation Funnels
+- Digital Product Tunnels
+- 7 Principles of Influence
 
 ---
 
@@ -181,7 +196,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-9 + div {
+  .slidev-layout.slidev-page-10 + div {
     background-size: contain !important;
   }
 </style>
@@ -303,8 +318,6 @@ image: assets/color-wheel-picker.png
   }
 </style>
 #### Warm and Cool Colors
-<br />
-
 Bánh xe màu chia thành màu ấm và màu lạnh 
 
 → <b>color temperature</b>
@@ -312,14 +325,12 @@ Bánh xe màu chia thành màu ấm và màu lạnh
 Cảm giác:
 
 - Màu ấm (red -> yellow)
-  - ấm cúng
-  - năng lượng
+  - ấm cúng, năng lượng
 
 - Màu lạnh (blue -> green -> purple)
-  - bình tĩnh
-  - êm đềm
-  - độc lập
+  - bình tĩnh, êm đềm, độc lập
 
+<br />
 
 #### Resources & Tools
 - ColorZilla
@@ -573,7 +584,7 @@ image: assets/4-sales-funnel-stages.png
 
 ---
 
-## Macro/Micro Conversions
+## Macro / Micro Conversions
 <br />
 
 ### Macro conversation
@@ -634,7 +645,7 @@ layout: image
 image: assets/lead-generation-ex.png
 ---
 <style>
-  .slidev-layout.slidev-page-38 {
+  .slidev-layout.slidev-page-40 {
     background-size: contain !important;
   }
 </style>
@@ -649,7 +660,7 @@ layout: image
 image: assets/digital-product-tunnels.png
 ---
 <style>
-  .slidev-layout.slidev-page-39 {
+  .slidev-layout.slidev-page-41 {
     background-size: contain !important;
   }
 </style>
@@ -768,3 +779,19 @@ image: assets/influence.png
 ---
 
 # Thank you
+
+If you think my effort is helpful, you could send me a encourage message by:
+
+- Support me
+  - [☕️ Buy me a coffee](https://ko-fi.com/beautyoncode)
+  - [😇 Send a hi on Momo](https://me.momo.vn/beautyoncode)
+  - [👀 Visit support page](beautyoncode.com/support/)
+- Visit my blog at [beautyoncode.com](beautyoncode.com)
+- Follow me on:
+  - [Careerly](https://careerly.vn/profiles/1140)
+  - [fanpage](facebook.com/beautyoncode)
+  - [linkedin](https://www.linkedin.com/in/graphicdthanh/)
+
+🤘 Chat with me 🤘 
+
+See you around, friends!
