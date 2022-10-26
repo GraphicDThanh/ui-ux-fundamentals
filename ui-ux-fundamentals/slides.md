@@ -26,9 +26,9 @@ css: unocss
 
 # UX / UI Fundamentals
 
-UX Design Course Tutorial for Beginners
+A Ref UX Design Course Tutorial for Beginners
 
-<p>Host by: Thanh Nguyen Diem</p>
+<p>BeautyOnCode</p>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -175,7 +175,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-4 + div {
+  .slidev-layout.slidev-page-9 + div {
     background-size: contain !important;
   }
 </style>
@@ -645,7 +645,7 @@ layout: image
 image: assets/lead-generation-ex.png
 ---
 <style>
-  .slidev-layout.slidev-page-40 {
+  .slidev-layout.slidev-page-38 {
     background-size: contain !important;
   }
 </style>
@@ -660,7 +660,7 @@ layout: image
 image: assets/digital-product-tunnels.png
 ---
 <style>
-  .slidev-layout.slidev-page-41 {
+  .slidev-layout.slidev-page-40 {
     background-size: contain !important;
   }
 </style>
@@ -670,7 +670,7 @@ layout: image
 image: assets/digital-product-tunnels-ex.png
 ---
 <style>
-  .slidev-layout.slidev-page-42 {
+  .slidev-layout.slidev-page-41 {
     background-size: contain !important;
   }
 </style>
@@ -680,7 +680,7 @@ layout: image
 image: assets/digital-product-tunnel-ex-real.png
 ---
 <style>
-  .slidev-layout.slidev-page-43 {
+  .slidev-layout.slidev-page-42 {
     background-size: contain !important;
   }
 </style>
@@ -714,7 +714,7 @@ image: assets/influence.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-44 + div {
+  .slidev-layout.slidev-page-45 + div {
     background-size: contain !important;
   }
 </style>
@@ -736,7 +736,7 @@ image: assets/influence.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-44 + div {
+  .slidev-layout.slidev-page-46 + div {
     background-size: contain !important;
   }
 </style>
