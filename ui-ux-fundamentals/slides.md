@@ -181,7 +181,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-10 + div {
+  .slidev-layout.slidev-page-9 + div {
     background-size: contain !important;
   }
 </style>
@@ -223,7 +223,7 @@ layout: image-right
 image: assets/r-g-b.png
 ---
 <style>
-  .slidev-layout.slidev-page-7 + div {
+  .slidev-layout.slidev-page-12 + div {
     background-size: contain !important;
   }
 </style>
@@ -251,7 +251,7 @@ layout: image-right
 image: assets/cmyk.png
 ---
 <style>
-  .slidev-layout.slidev-page-8 + div {
+  .slidev-layout.slidev-page-13 + div {
     background-size: contain !important;
   }
 </style>
@@ -374,9 +374,9 @@ image: assets/serif-vs-sans-serif.png
 
 
 ### Resources
-- fonts.google.com
-- myfonts.com
-- fontjoy.com
+- [fonts.google.com](fonts.google.com)
+- [myfonts.com](myfonts.com)
+- [fontjoy.com](fontjoy.com)
 
 ---
 layout: image-right
@@ -465,9 +465,9 @@ image: assets/styles-of-icon.png
 ## UX Design
 
 ### Human-centered design approach
-Nguyên tắc cốt lõi:
+Nguyên tắc:
 
-- Hiểu và chỉ ra vấn đề 
+- Hiểu và giải quyết các vấn đề cốt lõi của người dùng
 - Lấy con người làm trung tâm 
 - Sử dụng Activity-Centered System Approach
 - Nhanh chóng tạo mẫu và thí nghiệm & lặp lại
@@ -480,7 +480,7 @@ Nguyên tắc cốt lõi:
 <br />
 
 ### Customer Journey
-- Chi tiết quá trình dẫn đến một khách hàng paying
+- Chi tiết quá trình dẫn đến một khách hàng trung thành
 
 <br />
 
@@ -522,7 +522,7 @@ image: assets/sale-tunnels.png
 
 ---
 layout: image
-image: assets/3-funnel-phases.png
+image: assets/3-stages-tunnel-sales.png
 ---
 <style>
   .slidev-layout.slidev-page-27 {
@@ -531,7 +531,17 @@ image: assets/3-funnel-phases.png
 </style>
 
 ---
+layout: image
+image: assets/3-funnel-phases.png
+---
+<style>
+  .slidev-layout.slidev-page-28 {
+    background-size: contain !important;
+  }
+</style>
 
+
+---
 
 ## 4 Sales Funnel Stages
 <br />
@@ -543,10 +553,20 @@ image: assets/3-funnel-phases.png
 
 ---
 layout: image
+image: assets/4-stages-explain.png
+---
+<style>
+  .slidev-layout.slidev-page-30 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+layout: image
 image: assets/4-sales-funnel-stages.png
 ---
 <style>
-  .slidev-layout.slidev-page-29 {
+  .slidev-layout.slidev-page-31 {
     background-size: contain !important;
   }
 </style>
@@ -560,6 +580,8 @@ image: assets/4-sales-funnel-stages.png
 - Hành động mà người dùng thực hiện cách hành động mục tiêu chính
   - thanh toán
 
+<br />
+
 ### Micro conversation
 - Hành động người dùng thực hiện dẫn đến hành động mục tiêu
   - thêm vào giỏ hàng 
@@ -568,12 +590,179 @@ image: assets/4-sales-funnel-stages.png
 
 ---
 
-# Discusion and Q & A
+# Market Sotisfication
+Sự tinh vi của thị trường
+
+---
+layout: image
+image: assets/market-sotisfication.png
+---
+<style>
+  .slidev-layout.slidev-page-34 {
+    background-size: contain !important;
+  }
+</style>
+
+--- 
+
+# Lead Generation Funnels
+Phễu khách hàng tiềm năng
 
 
 ---
+layout: image
+image: assets/client-tunnels.png
+---
+<style>
+  .slidev-layout.slidev-page-36 {
+    background-size: contain !important;
+  }
+</style>
 
-# Reference
+---
+layout: image
+image: assets/lead-generation-tunnels.png
+---
+<style>
+  .slidev-layout.slidev-page-37 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+layout: image
+image: assets/lead-generation-ex.png
+---
+<style>
+  .slidev-layout.slidev-page-38 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+
+# Digital Product Tunnels
+Phễu sản phẩm kỹ thuật số
+
+---
+layout: image
+image: assets/digital-product-tunnels.png
+---
+<style>
+  .slidev-layout.slidev-page-39 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+layout: image
+image: assets/digital-product-tunnels-ex.png
+---
+<style>
+  .slidev-layout.slidev-page-42 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+layout: image
+image: assets/digital-product-tunnel-ex-real.png
+---
+<style>
+  .slidev-layout.slidev-page-43 {
+    background-size: contain !important;
+  }
+</style>
+
+---
+
+# 7 Principles of Influence
+Bảy nguyên tắc về sự ảnh hưởng
+
+---
+layout: image-right
+image: assets/influence.png
+---
+
+<style>
+  .slidev-layout.slidev-page-44 + div {
+    background-size: contain !important;
+  }
+</style>
+
+## Ra quyết định
+
+- Hẳn bạn nghĩ mình sẽ sử dụng tất cả những thông tin mình có để đưa ra quyết định, nhưng thực tế là, chúng ta sẽ sử dụng các con đường tắt hay các nguyên tắc đưa ra quyết định
+- Bảy nguyên tắc về sự ảnh hưởng cho phép chúng ta đưa ra quyết định dựa trên một số dữ kiện hợp lý và cấp thiết thay vì sử dụng tư duy logic
+- Tất cả mọi loại quảng cáo tạo cho bạn sự tin tưởng nhất định về bản thân, về sản phẩm. Và các quyết định mua sắm hầu hết phụ thuộc vào cảm xúc chứ không phải suy nghĩ logic
+
+
+---
+layout: image-right
+image: assets/influence.png
+---
+
+<style>
+  .slidev-layout.slidev-page-44 + div {
+    background-size: contain !important;
+  }
+</style>
+
+## 7 Principles of Influence
+
+<br />
+
+1. Social Proof - Testimonials 
+    - A busy restaurant is a good restaurant
+2. Liking
+    - People buy what they like, know, trust even quality not good (from influencers, acquaintance, ...)
+3. Authority
+    - Actors play role doctors on advertise
+
+---
+layout: image-right
+image: assets/influence.png
+---
+
+<style>
+  .slidev-layout.slidev-page-44 + div {
+    background-size: contain !important;
+  }
+</style>
+
+<br />
+
+4. Recipority (có qua có lại)
+    - when you receive something, you attent to give something back
+5. Consistency
+    - Asking for email then ask for sales, bigger sales
+    - Micro conversation, small steps 
+6. Scarcity (sự khan hiếm)
+    - Limit spots available, take action now before they gone
+7. Curiosity
+    - Picking someone interest
+
+---
+
+<br/>
+
+### Age Based Influence Trigger
+
+<br/>
+
+### Gender Based Influence Trigger
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### Reference
 - [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals](https://www.youtube.com/watch?v=uL2ZB7XXIgg)
 
 ---
