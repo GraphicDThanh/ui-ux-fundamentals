@@ -77,13 +77,56 @@ image: assets/ui-vs-ux.jpeg
 
 ---
 layout: image-right
-image: assets/psychology-color.png
+image: assets/stage-web-development.png
 ---
 <style>
   .slidev-layout.slidev-page-3 + div {
     background-size: contain !important;
   }
 </style>
+# State of Web Development
+## Design Stage
+
+Big picture design overview: 
+  - how does the website look like
+  - functional, features
+
+Answer questions:
+1. Goals for the page
+2. Goals for the user
+3. Questions that users need to answer to in order to accomplish the goal
+4. Emotions that we want to invoke
+
+---
+
+Wireframing
+- Bản phát thảo sketch cho thấy phần tử nào ở đâu trong trang web
+- Templates các loại page
+- Color scheme cũng đc chọn ở bước này
+- Tools: Adobe XD, Figma
+
+---
+
+## Coding Stage
+Frontend development
+- HTML: create and structure sections, paragraphs, heading, link, blockquotes, ...
+- CSS: style elements: font styles, buttons, elements, …
+- JS: make interactive
+
+## Deployment Stage
+Backend development
+- make FE web possible - host the web
+- consists: a server, application, database
+---
+layout: image-right
+image: assets/psychology-color.png
+---
+<style>
+  .slidev-layout.slidev-page-4 + div {
+    background-size: contain !important;
+  }
+</style>
+
 
 # Graphic Design
 ## Psychology of color 
@@ -100,7 +143,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-4 + div {
+  .slidev-layout.slidev-page-5 + div {
     background-size: contain !important;
   }
 </style>
@@ -119,7 +162,7 @@ layout: image-right
 image: assets/psychology-color.png
 ---
 <style>
-  .slidev-layout.slidev-page-5 + div {
+  .slidev-layout.slidev-page-6 + div {
     background-size: contain !important;
   }
 </style>
@@ -142,7 +185,7 @@ layout: image-right
 image: assets/r-g-b.png
 ---
 <style>
-  .slidev-layout.slidev-page-6 + div {
+  .slidev-layout.slidev-page-7 + div {
     background-size: contain !important;
   }
 </style>
@@ -170,7 +213,7 @@ layout: image-right
 image: assets/cmyk.png
 ---
 <style>
-  .slidev-layout.slidev-page-7 + div {
+  .slidev-layout.slidev-page-8 + div {
     background-size: contain !important;
   }
 </style>
@@ -216,12 +259,6 @@ image: assets/color-wheel.png
 layout: image-right
 image: assets/color-wheel-picker.png
 ---
-<style>
-  .slidev-layout.slidev-page-9 + div {
-    background-size: contain !important;
-  }
-</style>
-
 #### Warm and Cool Colors
 <br />
 
@@ -240,12 +277,16 @@ Cảm giác:
   - êm đềm
   - độc lập
 
+
+#### Resources & Tools
+- ColorZilla
+- [coolors.co](https://coolors.co/)
 ---
 layout: image-right
 image: assets/fonts.png
 ---
 <style>
-  .slidev-layout.slidev-page-10 + div {
+  .slidev-layout.slidev-page-12 + div {
     background-size: contain !important;
   }
 </style>
@@ -270,7 +311,7 @@ layout: image-right
 image: assets/serif-vs-sans-serif.png
 ---
 <style>
-  .slidev-layout.slidev-page-11 + div {
+  .slidev-layout.slidev-page-13 + div {
     background-size: contain !important;
   }
 </style>
@@ -300,7 +341,7 @@ image: assets/typo-hierarchy.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-12 + div {
+  .slidev-layout.slidev-page-15 + div {
     background-size: contain !important;
   }
 </style>
@@ -320,13 +361,15 @@ image: assets/typo-hierarchy.png
   - color
   - letter-case
 
+### Resources:
+- [archetypeapp.com](https://archetypeapp.com/)
 ---
 layout: image-right
 image: https://cdn.pixabay.com/photo/2015/02/22/18/26/icons-645335_1280.png
 ---
 
 <style>
-  .slidev-layout.slidev-page-13 + div {
+  .slidev-layout.slidev-page-16 + div {
     background-size: contain !important;
   }
 </style>
@@ -347,7 +390,7 @@ layout: image
 image: assets/icon-with-text.png
 ---
 <style>
-  .slidev-layout.slidev-page-14 {
+  .slidev-layout.slidev-page-17 {
     background-size: contain !important;
   }
 </style>
@@ -410,7 +453,7 @@ layout: image
 image: assets/customer-journey.png
 ---
 <style>
-  .slidev-layout.slidev-page-17 {
+  .slidev-layout.slidev-page-21 {
     background-size: contain !important;
   }
 </style>
@@ -420,7 +463,7 @@ layout: image
 image: assets/sale-tunnels.png
 ---
 <style>
-  .slidev-layout.slidev-page-18 {
+  .slidev-layout.slidev-page-22 {
     background-size: contain !important;
   }
 </style>
@@ -439,7 +482,7 @@ layout: image
 image: assets/3-funnel-phases.png
 ---
 <style>
-  .slidev-layout.slidev-page-21 {
+  .slidev-layout.slidev-page-24 {
     background-size: contain !important;
   }
 </style>
@@ -460,7 +503,7 @@ layout: image
 image: assets/4-sales-funnel-stages.png
 ---
 <style>
-  .slidev-layout.slidev-page-23 {
+  .slidev-layout.slidev-page-26 {
     background-size: contain !important;
   }
 </style>
