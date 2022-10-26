@@ -570,6 +570,12 @@ image: assets/4-sales-funnel-stages.png
 
 # Discusion and Q & A
 
+
+---
+
+# Reference
+- [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals](https://www.youtube.com/watch?v=uL2ZB7XXIgg)
+
 ---
 
 # Thank you
